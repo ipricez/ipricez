@@ -15,7 +15,6 @@
 - 🚀 I'm trying to launch my own projects
 - 👨‍💻 Constantly exploring new tech
 - 📫 How to reach me: fsfcantarero@gmail.com
-- ⚡ Fun fact: I love hobbits!
 
 <br>
 
