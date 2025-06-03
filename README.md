@@ -10,11 +10,11 @@
    <img src="https://img.shields.io/badge/English-dodgerblue" />
 </p>
 
-- 🌱 I’m currently learning DAW at Medac
+- 🧪 Completed internship in a Quality Engineering (QA) department 
 - 🔭 I’m currently looking for a project
-- 🚀 I'm trying to launch my own projects
-- 👨‍💻 Constantly exploring new tech
-- 📫 How to reach me: fsfcantarero@gmail.com
+- 🚀 Currently building personal projects and exploring new technologies  
+- 🔍 Interested in QA Automation, Backend Development, and DevOps  
+- 📫 How to reach me: fsfcantarero.dev@gmail.com
 
 <br>
 
