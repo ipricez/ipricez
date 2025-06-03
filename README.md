@@ -10,10 +10,10 @@
    <img src="https://img.shields.io/badge/English-dodgerblue" />
 </p>
 
-- 🧪 Completed internship in a Quality Engineering (QA) department 
-- 🔭 I’m currently looking for a project
-- 🚀 Currently building personal projects and exploring new technologies  
-- 🔍 Interested in QA Automation, Backend Development, and DevOps  
+- 🎓 Web Development graduate  
+- 🧪 Internship in QA/QE  
+- 🚀 Building personal projects  
+- 🔍 Exploring QA, Backend & DevOps  
 - 📫 How to reach me: fsfcantarero.dev@gmail.com
 
 <br>
