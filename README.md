@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Fernández</h1>
-<h3 align="center">Student at Medac🌟.</h3>
+<h3 align="center">🌟 Web Application Developer | SDET 🌟</h3>
 
 ## <picture><img src = "https://github.com/user-attachments/assets/866388ab-be3a-416f-8db5-1dfd77fd415b" width =30px></picture> **About me**
 
