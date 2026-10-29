@@ -16,7 +16,7 @@
 - 🎓 Higher Vocational Training in Web Application Development (MEDAC)
 - 🚀 Building personal projects, such as [Symplex](https://github.com/ipricez/symplex), a booking and accommodation management web app
 - 🔍 Currently deepening: CI/CD, Docker, backend and AI-assisted testing
-- 🌐 Portfolio: *add your deployed portfolio URL here*
+- 🌐 Portfolio: 
 - 📫 Reach me: fsfcantarero.dev@gmail.com
 
 <br>
